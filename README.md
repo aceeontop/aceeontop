@@ -27,7 +27,7 @@ It's a secret
 ## Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
 
-<h2 align="center">sniffcat.jpg</h2>
+<h2 align="center">funny cat</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/verlox/Discord-QR-Token-Logger/master/Discord-QR-Token-Stealer/sniffcat.jpg"></img>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcheezburger.com%2F4460037%2F15-of-basically-the-best-funniest-cat-pictures-weve-seen&psig=AOvVaw1aKnuXbE2zuQQyLMGFJaYP&ust=1644094966617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiYlZz55vUCFQAAAAAdAAAAABAI"></img>
 </div>
