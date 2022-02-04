@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  [![wakatime](https://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
 
   <img src="https://discord.c99.nl/widget/theme-1/935474857716621362.png"></img>
 
