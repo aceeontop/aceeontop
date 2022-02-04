@@ -8,7 +8,8 @@
 </div>
 
 ## About
-I'm meta and I typically work with nothing cuz im skid . I started learning how to code about 2020-22, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+I'm meta im 14 y/o i don't have anything to say so if u need me meta#1111 
+have fun skidding
 
 ## What I'm currently working on
 It's a secret
