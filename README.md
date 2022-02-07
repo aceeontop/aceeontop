@@ -15,7 +15,7 @@ have fun skidding
 It's a secret
 
 ## Goals
-* Learn C++/C#/node
+* Learn Python
 
 
 ## Projects
