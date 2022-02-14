@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm meta 👋</h1>
+<h1 align="center">Hey I'm acee 👋</h1>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 </div>
 
 ## About
-I'm meta im 14 y/o i don't have anything to say so if u need me meta#1111 
+I'm meta im 14 y/o i don't have anything to say so if u need me acee#0001
 have fun skidding
 
 ## What I'm currently working on
@@ -23,7 +23,7 @@ It's a secret
 
 ## Links
 * [Site](https://aceee.xyz)
-* [meta Discord](https://discord.gg/multi)
+* [Discord Server](https://discord.gg/multi)
 
 ## Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
