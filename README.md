@@ -1,8 +1,4 @@
-<h2 align="center">me</h2>
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/925054612459905055/942485368614297631/IMG_mewez8.gif"></img>
-</div>
-
+<img src="https://discord.c99.nl/widget/theme-4/921558491255148615.png"></img>
 ```python
 print(f'Follow {aceeontop} on Github')
 ```
@@ -24,3 +20,8 @@ All the code and projects provided (to you, from me) are strictly for educationa
  
 -> I mostly do sucking for fun :)</a>
 <a href="https://discord.gg/logging" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+<h2 align="center">me</h2>
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/925054612459905055/942485368614297631/IMG_mewez8.gif"></img>
+</div>
