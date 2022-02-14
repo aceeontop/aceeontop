@@ -1,4 +1,4 @@
-<a href="https://discord.gg/logging" target="_blank"> <img src="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://discord.gg/logging" target="_blank"> <img src="https://dsc.gg/astraadev" target="_blank"><img 
 
 ```python
 print(f'Follow {aceeontop} on Github')
