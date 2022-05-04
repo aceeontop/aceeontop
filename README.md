@@ -23,5 +23,5 @@ All the code and projects provided (to you, from me) are strictly for educationa
 
 <h2 align="center">me</h2>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/925054612459905055/942485368614297631/IMG_mewez8.gif"></img>
+  <img src="https://cdn.discordapp.com/attachments/971491423885082717/971513390021353512/groove-stickman_1.gif"></img>
 </div>
