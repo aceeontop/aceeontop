@@ -18,7 +18,7 @@ print(f'Follow {aceeontop} on Github')
 ## Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
  
--> I mostly do sucking for fun :)</a>
+-> Have Fun Skidding! :)</a>
 <a href="https://discord.gg/acee" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 <h2 align="center">me</h2>
