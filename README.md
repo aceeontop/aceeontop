@@ -7,12 +7,12 @@ print(f'Follow {aceeontop} on Github')
 ⌛️・I'm acee im 14 y/o i don't have anything to say so if u need me acee#0001 have fun skidding
 
 
-:envelope_with_arrow:・Any question? Add [**acee#0001**](https://discord.com/users/464457105521508354) on [**Discord**](https://discord.gg/acee)</a>
+:envelope_with_arrow:・Any question? Add [**acee#0001**](https://discord.com/users/464457105521508354) on [**Discord**](https://discord.gg/aceeback)</a>
 <a href="https://discord.com/users/464457105521508354" target="_blank"></a></p>
 
 ## Links
 * [YouTube](https://www.youtube.com/channel/UCoYokCm-p0JY3XHDb8_vahw)
-* [Discord Server](https://discord.gg/acee)
+* [Discord Server](https://discord.gg/aceeback)
 * [Site](https://aceee.xyz)
 
 ## Disclaimer
