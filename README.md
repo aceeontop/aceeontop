@@ -1,4 +1,4 @@
-<img src="https://discord.c99.nl/widget/theme-4/737302760638382152.png"></img>
+<img src="https://discord.c99.nl/widget/theme-3/918827904144658432.png"></img>
 ```python
 print(f'Follow {aceeontop} on Github')
 ```
